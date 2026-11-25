@@ -13,4 +13,5 @@ Orientada a resultados, aporto una visión analítica y un compromiso constante 
 
 Proyecto	Pregunta de negocio
 Analisis de cafeterias en Quito	(https://github.com/Marcela-CE/Proyecto-cafeterias-Quito)
+
 Formándome en la ruta Data Analyst Expert de Ciencia de Datos Ecuador.

@@ -4,9 +4,13 @@ Profesional con formación avanzada en Gestión de Proyectos y especialización 
 Orientada a resultados, aporto una visión analítica y un compromiso constante con la mejora continua, la transparencia y la eficiencia institucional.**
 
 📍 Quito, Eciador
+
 💼 Coordinacion de inversiones y gestion de proyectos de inclusion financiera
+
 🎯 Impacto del análisis de datos en la toma de decisiones financieras
+
 🛠️ Excel · Power BI · SQL · Python · IA para análisis
+
 📫 [Tu LinkedIn o correo profesional]
 
 **Proyectos**

@@ -9,7 +9,9 @@ Orientada a resultados, aporto una visión analítica y un compromiso constante 
 
   🎯 Impacto del análisis de datos en la toma de decisiones financieras
 
-  🛠️ Excel · Power BI · SQL · Python · IA para análisis
+  🛠️ Excel · 
+  
+  En proceso Power BI · SQL · Python · IA para análisis
 
   📫 [Tu LinkedIn o correo profesional]
 
